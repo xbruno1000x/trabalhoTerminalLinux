@@ -2,10 +2,6 @@
 
 # NAO APAGUE A LINHA ACIMA!
 
-#!/bin/bash
-
-# NAO APAGUE A LINHA ACIMA!
-
 # 1
 cd ~
 mkdir joao
